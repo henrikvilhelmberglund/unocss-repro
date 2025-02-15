@@ -10,6 +10,7 @@
     "@sveltejs/kit": "^2.10.1",
     "@sveltejs/vite-plugin-svelte": "^4.0.2",
     "@types/bun": "latest",
+    "@unocss/reset": "^65.5.0",
     "@unocss/svelte-scoped": "^0.62.4",
     "commit-and-tag-version": "^12.5.0",
     "kit-query-params": "^0.0.26",
